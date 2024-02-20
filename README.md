@@ -1,6 +1,10 @@
-## Hello there, I am Raphael Augusto, a computering engeneering student, developer and tech lover!
+# Hi there, I'm Raphael Augusto👋
 
-### Languages
+ Welcome to my profile, I am a computering engeneering student, aspiring Developer, part-time project coordinator and full-time adventurer seeker.
+
+
+
+### Languages💻
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -9,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+### Technologies🦾
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
