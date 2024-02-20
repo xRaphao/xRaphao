@@ -1,6 +1,6 @@
 # Hi there, I'm Raphael Augusto👋
 
- Welcome to my profile, I am a computering engeneering student, aspiring Developer, part-time project coordinator and full-time adventurer seeker.
+ Welcome to my profile, I am a computer engeneering student, aspiring Developer, part-time project coordinator and full-time adventurer seeker.
 
 
 
